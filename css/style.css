@@ -1,0 +1,34 @@
+.logo{
+	height: 100px;
+	background-color: skyblue;
+}
+.navigation{
+	height: 120px;
+	background-color: darkcyan;
+}
+.header{
+	height: 140px;
+	background-color: seagreen;
+}
+.wrapper{
+	overflow: hidden;
+}
+.single{
+	height: 250px;
+	width: 33.33%;
+	float: left;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+.footer{
+	height: 100px;
+	background-color: silver;
+	/*clear: both;*/
+}
